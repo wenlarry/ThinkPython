@@ -1,1 +1,3 @@
-# thnikPython
+# thinkPython - Codes
+
+# Allen B Downey
